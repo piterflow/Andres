@@ -1,5 +1,5 @@
 
-# ¡Hola!👋 Bienvenido a mi CV
+# ¡Curriculum Andres Ruiz!
 
 
 [![Dev0ps.jpg](https://i.postimg.cc/8cMK1TqR/Dev0ps.jpg)](https://postimg.cc/Wqp68cpz)
