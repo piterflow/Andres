@@ -6,15 +6,17 @@
 
 ## 🤗¡Me presento!
 
-> Bienvenido a mi perfil de Github. Soy Andrés Ruiz un Administrador de sistemas que desde 2018.
-Me anime ha adentrarme en el mundo de la informática.
-Actualmente estudio el grado superior de administración de sistemas informáticos en red que estoy por finalizar este 2025.
+> Bienvenido a mi perfil de Github. Soy Andrés Ruiz un Administrador de sistemas que desde 2018,
+me anime ha adentrarme en el mundo de la informática.
+Actualmente he finalizado el Grado Superior de Administración de Sistemas Informáticos en Red.
 
 ## 🚀¿Qué he estudiado?
 
-* 📚Actualmente soy **Técnicos en Sistemas Microinformático y redes**
+* 📚 **Administrado de Sistemas Informáticos en Red**
 
-* 📚Futuro **Administrado de Sistemas Informáticos en Red**
+* 📚 **Técnicos en Sistemas Microinformático y redes**
+
+
 <br>
 
 
@@ -34,7 +36,7 @@ Actualmente estudio el grado superior de administración de sistemas informátic
 
 | **Categoría**           | **Detalles**                             |
 |-------------------------|------------------------------------------|
-| **Herramientas DevOps**  | Git/GitHub, Docker, Kubernetes           |
+| **Herramientas DevOps**  | Git/GitHub, Docker, Jenkins, Slack           |
 | **Cloud**               | Amazon Web Services (AWS)                |
 | **IA**                  | Python                                   |
 
